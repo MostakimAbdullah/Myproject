@@ -1,0 +1,116 @@
+.Top{
+    background-color:lightcyan;
+}
+.School img{
+    width: 30%;
+    
+}
+
+.Button{
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+}
+.Second{
+    margin-top: 50px;
+}
+.Banner{
+    font-weight: 900;
+    font-size: 50px;
+}
+.Banner span{
+    color: darkgreen;
+}
+.Text{
+    padding-left: 20px;
+}
+.Text h5{
+    color:orangered;
+   
+}
+
+.illustration{
+    width: 90%;
+}
+.Head{
+    background-color:lightcyan;
+}
+
+.card-body img{
+    height:100px;
+    width: 90px;
+}
+
+.Third{
+    margin-top: 50px;
+}
+.Part1, .Part2, .Part3, .Part4{
+    
+    text-align: center;
+    padding: 30px;
+    background-color: lightcyan;
+}
+.Part1:hover{
+    background-color: white;
+    box-shadow:5px 5px 10px lightgray;
+}
+.Part2:hover{
+    background-color: white;
+    box-shadow:5px 5px 10px lightgray;
+}
+.Part3:hover{
+    background-color: white;
+    box-shadow:5px 5px 10px lightgray;
+}
+.Part4:hover{
+    background-color: white;
+    box-shadow:5px 5px 10px lightgray;
+}
+#Courses{
+    text-align: center;
+    margin-top: 70px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card{
+    margin-top: 100px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.Title{
+    color:darkslateblue
+}
+.card img{
+    padding: 20px 20px;
+}
+.card-title{
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.card-text{
+    color: gray;
+}
+
+.footer img{
+    width: 70px;
+    height: 70px;
+}
+.Fourth h1{
+    
+    margin-top: 100px;
+    font-weight: 800;
+    
+}
+.man img{
+    margin-top: 30px;
+    width: 150px;
+    height: 150px;
+}
+.Last{
+    margin-top: 50px;
+}
+
+
+    
+
+
